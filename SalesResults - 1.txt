@@ -1,0 +1,6 @@
+
+                Resultados de Ventas:
+                ---------------------
+                Total de Costo de Venta: $2481.86
+                Tiempo de ejecución: 0.01 segundos
+                
